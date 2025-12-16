@@ -53,13 +53,14 @@ This project is designed for **learning, demos, and resume showcase**.
 ## 📸 Application Screens
 
 | Step | Screen Preview |
-|----|----|
-| 1️⃣ | Home Page <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/1.1.png" width="100%"> |
-| 2️⃣ | Google Login <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/2.png" width="100%"> |
-| 3️⃣ | Create Trip <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/4.4.png" width="100%"> |
-| 4️⃣ | AI Trip Details <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/7.png" width="100%"> |
-| 5️⃣ | My Trips <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/6.png" width="100%"> |
-| 6️⃣ | Mobile View <br><img src="https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/8.jpg" width="40%"> |
+|------|----------------|
+| 1️⃣ | **Home Page**<br>![Home](https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/1.1.png) |
+| 2️⃣ | **Google Login**<br>![Login](https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/2.png) |
+| 3️⃣ | **Create Trip**<br>![Create](https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/4.4.png) |
+| 4️⃣ | **AI Trip Details**<br>![Details](https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/7.png) |
+| 5️⃣ | **My Trips**<br>![Trips](https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/6.png) |
+| 6️⃣ | **Mobile View**<br>![Mobile](https://raw.githubusercontent.com/dhruvsingh33/ai-trip-planner/main/public/asset/8.jpg) |
+
 
 ---
 
