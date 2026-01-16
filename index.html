@@ -1,13 +1,68 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TripForge AI | AI Travel Planner</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #38bdf8;
+      font-size: 2.5rem;
+    }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+    .tag {
+      display: inline-block;
+      background: #1e293b;
+      padding: 6px 12px;
+      margin: 6px 6px 0 0;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+    .note {
+      margin-top: 30px;
+      padding: 16px;
+      background: #020617;
+      border-left: 4px solid #38bdf8;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>TripForge AI</h1>
+    <p>
+      TripForge AI is an AI-powered travel planning platform designed to generate
+      personalized travel itineraries and recommendations based on user preferences.
+    </p>
+
+    <p><strong>Planned Features:</strong></p>
+    <div>
+      <span class="tag">AI Itinerary Generation</span>
+      <span class="tag">Google Places Integration</span>
+      <span class="tag">Hotel Recommendations</span>
+      <span class="tag">User Authentication</span>
+      <span class="tag">Saved Trips</span>
+    </div>
+
+    <p class="note">
+      🚧 <strong>Status:</strong> Under active development.<br/>
+      This is a temporary preview page. The full React-based AI application
+      will be deployed here soon.
+    </p>
+  </div>
+</body>
 </html>
