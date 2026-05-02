@@ -1,4 +1,4 @@
-<h1 align="center">AI Trip Planner</h1>
+ <h1 align="center">AI Trip Planner</h1>
 
 <p align="center">
 An AI-powered full-stack web application that helps users plan trips easily.
